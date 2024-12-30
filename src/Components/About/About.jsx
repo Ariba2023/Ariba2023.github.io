@@ -16,8 +16,8 @@ const About = () => {
         </div>
         <div className="about-right">
           <div className="about-para">
-            <p>I am a Web developer jahsjkhajdhkasjhdjkashdjkahdjkshjkashdwdjkahdjhsdjhashasjkfhajfhdfjhfgsdfhgsdhfgsdhajashahdahj</p>
-            <p>Ariba Junejo asjdjashdjkdhakjdhkajhdkjahdjkghadnajksfdhfghsdfgsjhgfjdhgfhgdhdjkashdjkash</p>
+            <p> A diligent and ambitious individual, committed to personal growth and excellence. With a creative mindset and a strong aptitude for quick learning, I am eager to contribute meaningfully to an organization's success while striving to achieve our shared objectives.</p>
+            <p></p>
           </div>
           <div className="about-skills">
             <div className="about-skill">
