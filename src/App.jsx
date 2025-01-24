@@ -4,7 +4,7 @@ import Hero from "./Components/Hero/Hero";
 import Footer from "./Components/Footer/Footer";
 import About from "./Components/About/About";
 import Services from "./Components/Services/Services";
-import MyWork from "./Components/MyWork/MyWork";
+
 import Contact from "./Components/Contact/Contact";
 
 const App = () => {
@@ -14,7 +14,7 @@ const App = () => {
       <Hero/>
       <About/>
       <Services/>
-      <MyWork/>
+  
       <Contact/>
       <Footer/>
     </div>
